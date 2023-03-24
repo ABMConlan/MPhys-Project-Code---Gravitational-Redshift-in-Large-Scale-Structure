@@ -4,4 +4,6 @@ The main analysis pipeline I implemented for my MPhys project. Written in Python
 pointset.npy is not here, as it is too big for GitHub and is the 
 intellectual property of the MultiDark Planck 2 simulation team.
 
-deltar.npy and deltar_p
+deltar.npy and deltar_pert.npy contain all necessary data for visualising
+the matter density contrast field, which can be done with the
+datacubeImage() method.
